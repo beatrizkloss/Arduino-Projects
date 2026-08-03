@@ -53,10 +53,3 @@ The color intensity is controlled using `analogWrite()`, which accepts values fr
 | RGB LED green pin | 9 |
 | RGB LED blue pin | 10 |
 
-## Demonstration
-
-The RGB LED changing color according to the potentiometer position.
-
-<!-- Replace the file name below with the actual GIF name -->
-
-![RGB potentiometer demonstration](rgb_potentiometer.gif)
